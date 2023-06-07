@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fathi123-max" alt="fathi123-max" /></a> </p>
 
-- 🔭 I’m currently working on [E Commerce App]([https://github.com/Fathi123-max/mobmart])
+- 🔭 I’m currently working on [E Commerce App](https://github.com/Fathi123-max/mobmart)
 
 - 🌱 I’m currently learning **Functional Programming**
 
