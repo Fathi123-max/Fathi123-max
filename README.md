@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fathi Wehba</h1>
-<h3 align="center">Flutter Developer</h3>
+<h3 Full Stack Mobile Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fathi123-max&label=Profile%20views&color=0e75b6&style=flat" alt="fathi123-max" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1zrQmManR9rA6k0uXWgLihOoCfBcRuEO8/view?usp=sharing](https://drive.google.com/file/d/1zrQmManR9rA6k0uXWgLihOoCfBcRuEO8/view?usp=sharing)
 
-- 💬 Ask me about **Flutter,Dart,Maps,BloC,GetX**
+- 💬 Ask me about **Flutter,Dart,php,SQL,MySQL,Maps,BloC,GetX**
 
 - 📫 How to reach me **fathiwehba5@gmail.com**
 
