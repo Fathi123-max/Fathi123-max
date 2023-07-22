@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **fathiwehba5@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SETvX-OMY3XGeaLg4GWg36Uf0PM8mHjp/view?usp=sharing](https://drive.google.com/file/d/1SETvX-OMY3XGeaLg4GWg36Uf0PM8mHjp/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1SETvX-OMY3XGeaLg4GWg36Uf0PM8mHjp/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
