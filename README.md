@@ -19,7 +19,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fathi123-max&theme=radical" alt="GitHub Streak">
 </p>
 
-- 🔭 I’m currently working on [Building My Startup](https://apps.apple.com/us/developer/pixelha/id1738392537)
+- 🔭 I’m currently working on [Pixelha](https://apps.apple.com/us/developer/pixelha/id1738392537)
 
 - 🌱 I’m currently learning **Functional Programming**
 
