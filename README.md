@@ -24,7 +24,7 @@
 - 🌱 I’m currently learning **Functional Programming**
 
 - 📫 How to reach me:
-  - 📞 +9710529983824 (Home)
+  - 📞 [+9710529983824](tel:+971529983824)
   - ✉️ [fathiwehba5@gmail.com](mailto:fathiwehba5@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
