@@ -24,7 +24,7 @@
 - 🌱 I’m currently learning **Functional Programming**
 
 - 📫 How to reach me:
-  - 📞 <a href="tel:+97154564564">+97154564564</a>
+  - 📞 <a href="tel:+971529983824">+971529983824</a>
   - ✉️ [fathiwehba5@gmail.com](mailto:fathiwehba5@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
