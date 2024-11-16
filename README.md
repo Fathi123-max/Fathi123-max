@@ -75,6 +75,6 @@ I’m an **experienced Flutter Developer** with over **2 years of professional e
   <a href="mailto:fathiwehba5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/fathi-wehba-9a2b2a187"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/Fathi123-max"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"></a>
-  <a href="https://apps.apple.com/us/developer/pixelha/id1738392537"><img src="https://img.shields.io/badge/-App%20Store-000000?style=for-the-badge&logo=Apple&logoColor=white" alt="App Store"></a>
-  <a href="https://play.google.com/store/apps/dev?id=5293503929502748227"><img src="https://img.shields.io/badge/-Google%20Play-3DDC84?style=for-the-badge&logo=Google%20Play&logoColor=white" alt="Google Play"></a>
+<!--   <a href="https://apps.apple.com/us/developer/pixelha/id1738392537"><img src="https://img.shields.io/badge/-App%20Store-000000?style=for-the-badge&logo=Apple&logoColor=white" alt="App Store"></a>
+  <a href="https://play.google.com/store/apps/dev?id=5293503929502748227"><img src="https://img.shields.io/badge/-Google%20Play-3DDC84?style=for-the-badge&logo=Google%20Play&logoColor=white" alt="Google Play"></a> -->
 </p>
