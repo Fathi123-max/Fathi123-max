@@ -26,7 +26,7 @@ I’m an **experienced Flutter Developer** with over **2 years of professional e
 ---
 
 ### 🔭 **Current Focus**:
-- **Role**: Flutter Developer at [Royal Class Group](https://royalclass.group/) (Dubai, UAE)
+- **Role**:open to work as a Flutter Developer) (Dubai, UAE)
 - **Learning**: Functional Programming
 
 ---
