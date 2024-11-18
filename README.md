@@ -32,7 +32,7 @@ I’m an **experienced Flutter Developer** with over **2 years of professional e
 ---
 
 ### 💼 Work Experience:
-#### **Royal Class Group** *(08/2024 – Present)* | Dubai, UAE
+#### **Royal Class Group** *(08/2024 – 11/2024)* | Dubai, UAE
 - Developed premium mobile apps across real estate and consultancy domains, reflecting Royal Class’s high-end branding.
 - Enhanced client-service provider interactions through streamlined app features.
 
