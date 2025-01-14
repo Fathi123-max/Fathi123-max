@@ -14,12 +14,7 @@
   <a href="https://github.com/fathi123-max">
     <img src="https://komarev.com/ghpvc/?username=fathi123-max&style=for-the-badge&color=blue" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/fathi123-max?tab=followers">
-    <img src="https://img.shields.io/github/followers/fathi123-max?style=for-the-badge&color=blue" alt="Followers"/>
-  </a>
-  <a href="https://github.com/fathi123-max?tab=repositories&sort=stargazers">
-    <img src="https://custom-icon-badges.demolab.com/github/stars/fathi123-max?color=blue&style=for-the-badge" alt="Stars"/>
-  </a>
+ 
 </div>
 
 <div align="center">
