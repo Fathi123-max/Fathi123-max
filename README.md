@@ -1,80 +1,163 @@
-<h1 align="center">Hi 👋, I'm Fathi Wehba</h1>
-<h2 align="center">Flutter Developer | E-commerce Specialist</h2>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fathi123-max&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://raw.githubusercontent.com/Fathi123-max/Fathi123-max/main/assets/header_animation.gif" width="100%" alt="Header Animation"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Transforming+Ideas+into+Applications;E-commerce+App+Specialist;Let’s+Build+Your+Next+Big+Idea!&center=true&width=800&height=45" alt="Typing SVG">
-</p>
+<h1 align="center">👋 Hi, I'm Fathi Wehba | Mobile & Blockchain Developer</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF">
-</p>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Mobile+Development+Maestro+%F0%9F%93%B1;Blockchain+Architecture+Enthusiast+%E2%9B%93;E-commerce+Innovation+Specialist+%F0%9F%9B%8D;Building+the+Future%2C+One+App+at+a+Time+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
----
+</div>
 
-### 🌟 About Me:
-I’m an **experienced Flutter Developer** with over **2 years of professional experience** in creating high-performance, user-centric mobile applications. My expertise lies in **e-commerce development** and **digital transformation**, helping businesses scale their digital presence and achieve measurable success. 
+<div align="center">
+  <a href="https://github.com/fathi123-max">
+    <img src="https://komarev.com/ghpvc/?username=fathi123-max&style=for-the-badge&color=blue" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/fathi123-max?tab=followers">
+    <img src="https://img.shields.io/github/followers/fathi123-max?style=for-the-badge&color=blue" alt="Followers"/>
+  </a>
+  <a href="https://github.com/fathi123-max?tab=repositories&sort=stargazers">
+    <img src="https://custom-icon-badges.demolab.com/github/stars/fathi123-max?color=blue&style=for-the-badge" alt="Stars"/>
+  </a>
+</div>
 
-🚀 **Highlights**:
-- Proven track record in reducing development costs and improving app performance.
-- Expertise in **Flutter**, **Shopify**, **WooCommerce**, and **Firebase**.
-- Passionate about crafting sleek and intuitive mobile experiences.
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF"/>
+</div>
 
----
+## 🎯 What I Do
 
-### 🔭 **Current Focus**:
-- **Role**:open to work as a Flutter Developer) (Dubai, UAE)
-- **Learning**: Functional Programming
+```typescript
+const fathi = {
+    role: "Mobile & Blockchain Developer",
+    code: ["Dart", "Swift", "Kotlin", "Solidity"],
+    technologies: {
+        mobile: ["Flutter", "iOS", "Android"],
+        backend: ["Firebase", "Supabase", "REST APIs", "GraphQL"],
+        blockchain: ["Ethereum", "Smart Contracts", "dApps", "Foundry"],
+        database: ["MongoDB", "SQLite", "PostgreSQL"],
+        tools: ["Git", "Docker", "CI/CD", "Agile"]
+    },
+    achievements: {
+        userSatisfaction: "↑ 15%",
+        salesGrowth: "↑ 40%",
+        appsDeployed: 15,
+        happyClients: "∞"
+    }
+};
+```
 
----
+## 🚀 Expertise & Impact
 
-### 💼 Work Experience:
-#### **Royal Class Group** *(08/2024 – 11/2024)* | Dubai, UAE
-- Developed premium mobile apps across real estate and consultancy domains, reflecting Royal Class’s high-end branding.
-- Enhanced client-service provider interactions through streamlined app features.
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>Mobile Development</h3>
+        <ul align="left">
+          <li>🎯 Cross-platform expertise with Flutter</li>
+          <li>📱 Native iOS & Android development</li>
+          <li>⚡ Performance optimization</li>
+          <li>🔄 State management mastery</li>
+        </ul>
+      </td>
+      <td align="center" width="50%">
+        <h3>Blockchain Innovation</h3>
+        <ul align="left">
+          <li>⛓️ Smart contract development</li>
+          <li>🌐 dApp architecture</li>
+          <li>🔒 Web3 integration</li>
+          <li>💼 DeFi solutions</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
-#### **S7 Marketing Solutions** *(08/2023 – 08/2024)* | Dubai, UAE
-- Built e-commerce apps, achieving a **20% boost in mobile transactions** by integrating Shopify.
-- Delivered scalable mobile solutions for retail and hospitality clients.
+## 🎨 Featured Projects
 
-#### **Squarement** *(12/2023 – 08/2024)* | Jeddah, Saudi Arabia
-- Delivered tailored mobile applications as part of digital transformation initiatives.
-- Optimized the customer journey from discovery to checkout, increasing app conversions.
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>Otlub</h3>
+        <div>
+          <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+          <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+          <p>Multi-restaurant food delivery platform with real-time tracking and analytics</p>
+        </div>
+      </td>
+      <td align="center" width="33%">
+        <h3>Dr Sleeep</h3>
+        <div>
+          <img src="https://img.shields.io/badge/-Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"/>
+          <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+          <p>E-commerce platform specializing in sleep products with AI recommendations</p>
+        </div>
+      </td>
+      <td align="center" width="33%">
+        <h3>FundMe</h3>
+        <div>
+          <img src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
+          <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
+          <p>Decentralized crowdfunding platform with smart contract automation</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-#### **Other Projects**:
-- **Geras**: Educational mentorship platform with real-time data sync using Firebase.
-- **Dr Sleeep**: E-commerce app for sleep-related products, built with Flutter and Shopify.
-- **Lazer**: Mobile repair service app with seamless booking and customer tracking.
+## 📊 GitHub Analytics
 
----
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fathi123-max&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</div>
 
-### 📂 Skills:
-- **Languages**: Dart, Kotlin, Java, PHP, Python
-- **Frameworks & Tools**: Flutter, Firebase, WordPress, Shopify, WooCommerce
-- **Project Management**: Jira, Trello, Asana
-- **Version Control**: Git, GitHub
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fathi123-max&layout=compact&langs_count=8&theme=tokyonight" />
+</div>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fathi123-max&theme=tokyonight" alt="GitHub Streak Stats"/>
+</div>
 
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fathi123-max&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fathi123-max&theme=radical" alt="GitHub Streak">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathi123-max&layout=compact&theme=radical" alt="Top Languages">
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fathi123-max&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
 
----
+## 💻 Tech Stack
 
-### 📫 How to Reach Me:
-<p align="center">
-  <a href="mailto:fathiwehba5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/fathi-wehba-9a2b2a187"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/Fathi123-max"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"></a>
-<!--   <a href="https://apps.apple.com/us/developer/pixelha/id1738392537"><img src="https://img.shields.io/badge/-App%20Store-000000?style=for-the-badge&logo=Apple&logoColor=white" alt="App Store"></a>
-  <a href="https://play.google.com/store/apps/dev?id=5293503929502748227"><img src="https://img.shields.io/badge/-Google%20Play-3DDC84?style=for-the-badge&logo=Google%20Play&logoColor=white" alt="Google Play"></a> -->
-</p>
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+## 🤝 Let's Connect
+
+<div align="center">
+  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:fathiwehba5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fathi-wehba)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/fathi123-max)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/fathi123max)
+
+</div>
+
+<div align="center">
+  
+### 💭 Developer Philosophy
+*"Clean code always looks like it was written by someone who cares."*
+
+</div>
+
+<img src="https://raw.githubusercontent.com/Fathi123-max/Fathi123-max/main/assets/animated_footer.gif" width="100%" alt="Footer Animation"/>
