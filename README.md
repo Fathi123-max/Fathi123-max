@@ -113,9 +113,7 @@ const fathi = {
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fathi123-max&layout=compact&langs_count=8&theme=tokyonight" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fathi123-max&theme=tokyonight" alt="GitHub Streak Stats"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fathi123-max&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
