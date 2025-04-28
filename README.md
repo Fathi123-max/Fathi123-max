@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Fathi123-max/Fathi123-max/main/assets/header_animation.gif" width="100%" alt="Header Animation"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm Fathi Wehba | Mobile & Blockchain Developer</h1>
+<h1 align="center">👋 Hi, I'm Fathi Wehba | Mobile & E-commerce & Blockchain Developer</h1>
 
 <div align="center">
   
