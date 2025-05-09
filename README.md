@@ -80,17 +80,17 @@ const fathiWehba = {
 
 ### 🍔 Otlub  
 A **multi-restaurant food delivery platform** with real-time tracking and analytics. Built with **Flutter**, **Firebase**, and **REST APIs** for a seamless user experience.  
-🔗 [Explore Project](#) *(Link TBD)*
+🔗 [Explore Project](https://apps.apple.com/us/app/otlub-driver/id6480306213) 
 
 ### 🛌 Dr Sleeep  
 An **e-commerce platform** for sleep products, featuring **AI-driven recommendations** and **Shopify integration**. Drove **significant sales growth** with a user-friendly interface.  
-🔗 [Explore Project](#) *(Link TBD)*
+🔗 [Explore Project](https://apps.apple.com/eg/app/drsleeep/id6476057720)
 
 ### 💸 FundMe  
 A **decentralized crowdfunding platform** powered by **Ethereum smart contracts**. Ensures secure, transparent transactions with **Web3 integration**.  
-🔗 [Explore Project](#) *(Link TBD)*
+🔗 [Explore Project](https://github.com/Fathi123-max/foundry-fund-me)
 
-📋 **Full Project List**: 17+ projects across mobile, blockchain, and e-Commerce. [Contact me](mailto:fathiwehba5@gmail.com) for details!
+📋 **Full Project List**: 17+ projects across mobile, blockchain, and e-Commerce. [Link](https://docs.google.com/document/d/1De-7eEKs3HYVbOQLUWfPPGnUkxqoJheE2IxB_f0xcd8/edit?usp=sharing) for details!
 
 ---
 
