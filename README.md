@@ -35,18 +35,40 @@ const fathiWehba = {
 ## 💼 Professional Experience
 
 **🏢 Royal Class Group** *(Aug 2024 - Nov 2024)*  
-*Luxury consultancy and real estate leader*
-- Streamlined communication features, improving response times by **20%**
-- Delivered brand-aligned UI/UX designs, boosting user satisfaction by **15%**
+*Luxury consultancy and real estate leader in Dubai*
+- Delivered features to streamline communication, improving service request response times by **20%**
+- Ensured brand-aligned UI/UX designs, contributing to **15% increase** in user satisfaction scores
+- Developed mobile applications, increasing client interaction efficiency by **30%**
 
 **🎯 S7 Marketing Solutions** *(Aug 2023 - Aug 2024)*  
-*Digital marketing and app development innovators*
-- Led mobile app development for e-commerce projects
-- Integrated Shopify and WooCommerce, driving **40% sales increase**
+*Innovators in digital marketing and app development*
+- Led development of mobile applications for **e-commerce and digital marketing** projects, focusing on performance and scalability
+- Integrated **Shopify and WooCommerce**, driving **40% increase** in client sales
+- Worked with cross-functional teams to deliver robust digital solutions across **retail and hospitality** industries
 
-**🛒 E-commerce SaaS Company** *(Aug 2022 - Aug 2023)*  
-- Managed Flutter department and **Server-Driven UI** architecture
-- Deployed **15+ applications** across App Store and Play Store
+**🛒 Confidential E-commerce Company** *(Aug 2022 - Aug 2023)*  
+*E-commerce SaaS Industry*
+- **Managed Flutter department** of the E-commerce SaaS Application
+- Deployed **15+ applications** on both Play Store and App Store
+- Pioneered **Server-Driven UI Architecture** for dynamic, scalable interfaces
+
+**⚡ Squarement** *(Dec 2021 - Aug 2022)*  
+*Trailblazers in digital transformation and software solutions*
+- Enhanced app scalability, supporting **50% increase** in concurrent users without performance issues
+- Played key role in **end-to-end development** of mobile apps, ensuring alignment with client goals
+- Collaborated with QA team to implement comprehensive testing procedures, ensuring high standards of performance and reliability
+
+**🔧 Baynat Z** *(July 2021 - Oct 2021)*  
+*Pioneers in custom IT and digital innovations*
+- Contributed to mobile application development, focusing on **database management and API integration**
+- Designed **reusable UI components** to improve development timelines
+- Delivered scalable mobile applications customized to client requirements
+
+**📚 Focal Point** *(Mar 2021 - May 2021)*  
+*Unique services in education and lifestyle solutions*
+- Developed applications for diverse services like **language learning**
+- Integrated features to enhance engagement in **Quranic studies and Arabic courses**
+- Optimized user experiences across various service offerings
 
 ---
 
