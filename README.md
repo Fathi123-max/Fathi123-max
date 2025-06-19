@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Fathi Wehba  
-### Full Stack Mobile Developer | Blockchain Innovator | E-commerce Specialist
+### Full Stack Mobile Developer| E-commerce Specialist
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Building+Seamless+Mobile+Experiences+%F0%9F%93%B1;Architecting+Decentralized+Future+%E2%9B%93;Driving+E-commerce+Growth+%F0%9F%9B%8D;Crafting+Innovation+One+Line+at+a+Time+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
